@@ -70,11 +70,8 @@
     "safe-buffer": "^5.1.1",
     "vfile-message": "^2.0.2"
   },
-  "peerDependencies": {
-    "@google-cloud/logging": "^4.5.2"
-  },
   "dependencies": {
-    "@coder/logger": "1.1.16",
+    "logger": "github:synax/ts-logger",
     "body-parser": "^1.19.0",
     "cookie-parser": "^1.4.5",
     "env-paths": "^2.2.0",
