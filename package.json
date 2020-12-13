@@ -70,6 +70,9 @@
     "safe-buffer": "^5.1.1",
     "vfile-message": "^2.0.2"
   },
+  "peerDependencies": {
+    "@google-cloud/logging": "^4.5.2"
+  },
   "dependencies": {
     "@coder/logger": "1.1.16",
     "body-parser": "^1.19.0",
