@@ -71,7 +71,7 @@
     "vfile-message": "^2.0.2"
   },
   "dependencies": {
-    "logger": "github:synax/ts-logger",
+    "@coder/logger": "github:synax/ts-logger",
     "body-parser": "^1.19.0",
     "cookie-parser": "^1.4.5",
     "env-paths": "^2.2.0",
